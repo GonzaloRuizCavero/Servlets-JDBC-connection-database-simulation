@@ -1,4 +1,6 @@
-This script simulates the registration method in a webpage. It is composed of a registration process, a verification process and an information storage process. The pipeline is the following:
+This script simulates the registration method in a webpage. It is composed of a registration process, a verification process and an information storage process using HTML and Java. It is recommended to open the projects as Eclipse IDE projects.
+
+The pipeline is the following:
 
 - First, Execute registro.html --> Here, you will be asked to provide a username and a password
 - A connection with a database will be created. If the username and password is in the database, the system will display that the user already exists.
